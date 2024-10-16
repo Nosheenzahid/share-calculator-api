@@ -1,0 +1,9 @@
+uvicorn==0.31.0
+
+yfinance==0.2.44
+numpy==2.1.2
+pandas==2.2.3
+
+fastapi==0.115.0
+fastapi-cli==0.0.5
+fasteners==0.14.1
